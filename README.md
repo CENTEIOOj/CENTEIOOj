@@ -17,6 +17,6 @@
 
   ##
 
-[snake gif](https://github.com/CENTEIOOj/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+[snake gif](https://github.com/CENTEIOOj/CENTEIOOj/blob/output/github-contribution-grid-snake.gif)
  
  
