@@ -16,4 +16,4 @@
 
   ##
  
-  ![Snake animation](https://github.com/CENTEIOOj/CENTEIOOj/blob/output/github-contribution-grid-snake.svg)
+ 
