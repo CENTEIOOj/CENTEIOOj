@@ -13,9 +13,16 @@
  	<a href="https://www.twitch.tv/CENTEIOOj" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/GjRAAuZ6eE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto: gamsilva10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a>&nbsp;<img align="right" alt="pic" height="160px" style="border-radius:50px" src="https://cdn.discordapp.com/attachments/977553073146851340/981583053828812910/BENFIEDMRIA.png"/></a>
 </div>
 
-  ##
+ 
+ 
+ 
+ 
+ 
+ 
+ ##
 <div>
 
 ![snake gif](https://github.com/CENTEIOOj/CENTEIOOj/blob/output/github-contribution-grid-snake.svg)
