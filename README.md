@@ -4,9 +4,9 @@
   <a href="https://linktr.ee/Guilherme_Centeio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENTEIOOj&layout=compact&langs_count=7&theme=radical"/>
-  </div>
-  <a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
   a>&nbsp;<img align="center" alt="codeSTACKr | Java" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a>
+    </div>
+  
 ##
   
    <a href="https://www.youtube.com/channel/UC5DdGp42X0F2WhTKTV86DZw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
