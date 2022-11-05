@@ -4,8 +4,7 @@
   <a href="https://linktr.ee/Guilherme_Centeio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENTEIOOj&layout=compact&langs_count=7&theme=radical"/>
-  a>&nbsp;<img align="center" alt="codeSTACKr | Java" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a>
-    </div>
+ </div>
   
 ##
   
