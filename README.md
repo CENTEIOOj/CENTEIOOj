@@ -1,4 +1,4 @@
-### Hi my name is Guilherme, Guilherme Centeio! Youre Welcome 👋
+### <center> Hi my name is Guilherme, Guilherme Centeio! Youre Welcome 👋 </center>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -6,8 +6,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CENTEIOOj/CENTEIOOj/output/snake.svg" alt="Snake animation" />
 
 ###
 
