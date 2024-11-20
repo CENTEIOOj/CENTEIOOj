@@ -3,37 +3,26 @@
 </div>
 
 <div align="center">
-<div align="center">
-  <a src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />  </a>
-  <a src="https://github-readme-streak-stats.herokuapp.com/?user=CENTEIOOj&theme=tokyonight&hide_border=false" />  </a>
-  <a src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />  </a>
+  <!-- Use img instead of a for displaying stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CENTEIOOj&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </div>
-</div>
-
-###
-
-###
 
 <br clear="both">
 
 <div align="center">
   <a href="https://x.com/CENTEIOO" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
   <a href="https://twitch.tv/CENTEIOOj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="twitch logo" />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="gamsilva10@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  <a href="mailto:gamsilva10@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
   <a href="https://instagram.com/_guilherme.centeio_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-    <br>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
 </div>
-
-###
-
-###
- 
