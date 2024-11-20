@@ -5,6 +5,8 @@
 <div align="center">
 <div align="center">
   <a src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />  </a>
+  <a src="https://github-readme-streak-stats.herokuapp.com/?user=CENTEIOOj&theme=tokyonight&hide_border=false" />  </a>
+  <a src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />  </a>
 </div>
 </div>
 
