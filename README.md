@@ -4,7 +4,7 @@
 
 <div align="center">
 <div align="center">
-  <img src="(https://github-readme-stats.vercel.app/api?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true />
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CENTEIOOj?cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000)](https://git.io/awesome-stats-card)
 </div>
 </div>
 
