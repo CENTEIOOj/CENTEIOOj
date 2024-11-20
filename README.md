@@ -4,7 +4,7 @@
 
 <div align="center">
 <div align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CENTEIOOj?cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000)](https://git.io/awesome-stats-card)
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000">    <img  alt="CENTEIOOj's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/CENTEIOOj?cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000" />  </a>
 </div>
 </div>
 
