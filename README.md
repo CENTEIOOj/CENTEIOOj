@@ -5,7 +5,6 @@
 <div align="center">
   <!-- Use img instead of a for displaying stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CENTEIOOj&theme=tokyonight&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
