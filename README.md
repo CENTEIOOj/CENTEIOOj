@@ -4,7 +4,7 @@
 
 <div align="center">
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000">    <img  alt="CENTEIOOj's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/CENTEIOOj?cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000" />  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=CENTEIOOj&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" src="https://awesome-github-stats.azurewebsites.net/user-stats/CENTEIOOj?cardType=level&theme=tokyonight&preferLogin=false&Title=DD0000" />  </a>
 </div>
 </div>
 
